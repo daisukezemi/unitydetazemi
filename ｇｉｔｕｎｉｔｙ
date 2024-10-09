@@ -1,0 +1,8 @@
+{
+  "name": "com.daisukezemi.unitydetazemi",
+  "version": "1.0.0",
+  "displayName": "Unity Detazemi",
+  "description": "A package for Unity Detazemi project",
+  "unity": "2020.3",
+  "dependencies": {}
+}
